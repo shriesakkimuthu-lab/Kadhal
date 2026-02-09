@@ -23,8 +23,6 @@ function showMessage(response) {
     document.getElementById("question").textContent =
       "The no button is just for visuals";
     document.getElementById("name").style.display = "none";
-
-    // Optional: You can also add a timeout to reset the position after a few seconds
   }
 
   if (response === "Yes") {
