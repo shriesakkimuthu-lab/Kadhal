@@ -35,7 +35,7 @@ function showMessage(response) {
     yesMessage.textContent = "LOVEEEEEEEEEE YOUUUUUUU KUNJUSSSSSSS Myyyyyyyyyyy Babyyyyyyygirlllllll😘😘";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "Pig Dance.gif";
+    document.getElementsByClassName("image")[0].src = "pigdance.gif";
 
     // Remove yes button
     document.getElementById("yesButton").remove();
